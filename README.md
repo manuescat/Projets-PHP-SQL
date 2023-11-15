@@ -7,3 +7,4 @@ Projet ayant pour objectif de réaliser un site en php et de requéter une base 
 https://github.com/manuescat/Projets-PHP-SQL/blob/main/page%20contact.png
 
 https://github.com/manuescat/Projets-PHP-SQL/blob/main/page%20emissions.png
+https://github.com/manuescat/Projets-PHP-SQL/blob/main/page%20consommations.png
